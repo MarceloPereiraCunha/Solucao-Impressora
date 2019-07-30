@@ -1,0 +1,25 @@
+C:\Users\marcelo.cunha\source\repos\iTextSharpTest\iTextSharpTest\bin\Debug\iTextSharpTest.exe.config
+C:\Users\marcelo.cunha\source\repos\iTextSharpTest\iTextSharpTest\bin\Debug\iTextSharpTest.exe
+C:\Users\marcelo.cunha\source\repos\iTextSharpTest\iTextSharpTest\bin\Debug\iTextSharpTest.pdb
+C:\Users\marcelo.cunha\source\repos\iTextSharpTest\iTextSharpTest\bin\Debug\itextsharp.dll
+C:\Users\marcelo.cunha\source\repos\iTextSharpTest\iTextSharpTest\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\marcelo.cunha\source\repos\iTextSharpTest\iTextSharpTest\bin\Debug\Syncfusion.HtmlConverter.Base.dll
+C:\Users\marcelo.cunha\source\repos\iTextSharpTest\iTextSharpTest\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\marcelo.cunha\source\repos\iTextSharpTest\iTextSharpTest\bin\Debug\Microsoft.mshtml.dll
+C:\Users\marcelo.cunha\source\repos\iTextSharpTest\iTextSharpTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marcelo.cunha\source\repos\iTextSharpTest\iTextSharpTest\bin\Debug\itextsharp.xml
+C:\Users\marcelo.cunha\source\repos\iTextSharpTest\iTextSharpTest\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\marcelo.cunha\source\repos\iTextSharpTest\iTextSharpTest\bin\Debug\Syncfusion.HtmlConverter.Base.xml
+C:\Users\marcelo.cunha\source\repos\iTextSharpTest\iTextSharpTest\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\marcelo.cunha\source\repos\iTextSharpTest\iTextSharpTest\obj\Debug\iTextSharpTest.csprojAssemblyReference.cache
+C:\Users\marcelo.cunha\source\repos\iTextSharpTest\iTextSharpTest\obj\Debug\iTextSharpTest.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.cunha\source\repos\iTextSharpTest\iTextSharpTest\obj\Debug\iTextSharpTest.csproj.CopyComplete
+C:\Users\marcelo.cunha\source\repos\iTextSharpTest\iTextSharpTest\obj\Debug\iTextSharpTest.exe
+C:\Users\marcelo.cunha\source\repos\iTextSharpTest\iTextSharpTest\obj\Debug\iTextSharpTest.pdb
+C:\Solucao Impressora\iTextSharpTest\iTextSharpTest\bin\Debug\iTextSharpTest.exe.config
+C:\Solucao Impressora\iTextSharpTest\iTextSharpTest\bin\Debug\iTextSharpTest.exe
+C:\Solucao Impressora\iTextSharpTest\iTextSharpTest\bin\Debug\itextsharp.dll
+C:\Solucao Impressora\iTextSharpTest\iTextSharpTest\bin\Debug\itextsharp.xml
+C:\Solucao Impressora\iTextSharpTest\iTextSharpTest\obj\Debug\iTextSharpTest.csprojAssemblyReference.cache
+C:\Solucao Impressora\iTextSharpTest\iTextSharpTest\obj\Debug\iTextSharpTest.csproj.CoreCompileInputs.cache
+C:\Solucao Impressora\iTextSharpTest\iTextSharpTest\obj\Debug\iTextSharpTest.csproj.CopyComplete

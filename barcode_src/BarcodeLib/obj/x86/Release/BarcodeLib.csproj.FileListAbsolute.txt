@@ -1,0 +1,6 @@
+C:\Solucao Impressora\barcode_src\BarcodeLib\bin\x86\Release\Release Notes.txt
+C:\Solucao Impressora\barcode_src\BarcodeLib\bin\x86\Release\BarcodeLib.dll
+C:\Solucao Impressora\barcode_src\BarcodeLib\bin\x86\Release\BarcodeLib.pdb
+C:\Solucao Impressora\barcode_src\BarcodeLib\obj\x86\Release\BarcodeLib.csproj.CoreCompileInputs.cache
+C:\Solucao Impressora\barcode_src\BarcodeLib\obj\x86\Release\BarcodeLib.dll
+C:\Solucao Impressora\barcode_src\BarcodeLib\obj\x86\Release\BarcodeLib.pdb

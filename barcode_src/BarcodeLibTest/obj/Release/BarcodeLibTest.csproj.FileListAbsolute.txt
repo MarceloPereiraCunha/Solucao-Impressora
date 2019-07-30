@@ -1,0 +1,18 @@
+C:\Solucao Impressora\barcode_src\BarcodeLibTest\bin\Release\Release Notes.txt
+C:\Solucao Impressora\barcode_src\BarcodeLibTest\bin\Release\BarcodeLibTest.exe.config
+C:\Solucao Impressora\barcode_src\BarcodeLibTest\bin\Release\BarcodeLibTest.exe.manifest
+C:\Solucao Impressora\barcode_src\BarcodeLibTest\bin\Release\BarcodeLibTest.application
+C:\Solucao Impressora\barcode_src\BarcodeLibTest\bin\Release\BarcodeLibTest.exe
+C:\Solucao Impressora\barcode_src\BarcodeLibTest\bin\Release\BarcodeLibTest.pdb
+C:\Solucao Impressora\barcode_src\BarcodeLibTest\bin\Release\BarcodeLib.dll
+C:\Solucao Impressora\barcode_src\BarcodeLibTest\bin\Release\BarcodeLib.pdb
+C:\Solucao Impressora\barcode_src\BarcodeLibTest\obj\Release\BarcodeLibTest.csprojAssemblyReference.cache
+C:\Solucao Impressora\barcode_src\BarcodeLibTest\obj\Release\BarcodeLibTest.TestApp.resources
+C:\Solucao Impressora\barcode_src\BarcodeLibTest\obj\Release\BarcodeLibTest.Properties.Resources.resources
+C:\Solucao Impressora\barcode_src\BarcodeLibTest\obj\Release\BarcodeLibTest.csproj.GenerateResource.cache
+C:\Solucao Impressora\barcode_src\BarcodeLibTest\obj\Release\BarcodeLibTest.csproj.CoreCompileInputs.cache
+C:\Solucao Impressora\barcode_src\BarcodeLibTest\obj\Release\BarcodeLibTest.exe.manifest
+C:\Solucao Impressora\barcode_src\BarcodeLibTest\obj\Release\BarcodeLibTest.application
+C:\Solucao Impressora\barcode_src\BarcodeLibTest\obj\Release\BarcodeLibTest.csproj.CopyComplete
+C:\Solucao Impressora\barcode_src\BarcodeLibTest\obj\Release\BarcodeLibTest.exe
+C:\Solucao Impressora\barcode_src\BarcodeLibTest\obj\Release\BarcodeLibTest.pdb

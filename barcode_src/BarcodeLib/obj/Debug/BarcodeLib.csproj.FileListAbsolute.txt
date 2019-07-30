@@ -1,0 +1,13 @@
+C:\Repositórios\Repositorios GIT\barcode_src\BarcodeLib\bin\Debug\Release Notes.txt
+C:\Repositórios\Repositorios GIT\barcode_src\BarcodeLib\bin\Debug\BarcodeLib.dll
+C:\Repositórios\Repositorios GIT\barcode_src\BarcodeLib\bin\Debug\BarcodeLib.pdb
+C:\Repositórios\Repositorios GIT\barcode_src\BarcodeLib\obj\Debug\BarcodeLib.csprojAssemblyReference.cache
+C:\Repositórios\Repositorios GIT\barcode_src\BarcodeLib\obj\Debug\BarcodeLib.csproj.CoreCompileInputs.cache
+C:\Repositórios\Repositorios GIT\barcode_src\BarcodeLib\obj\Debug\BarcodeLib.dll
+C:\Repositórios\Repositorios GIT\barcode_src\BarcodeLib\obj\Debug\BarcodeLib.pdb
+C:\Solucao Impressora\barcode_src\BarcodeLib\bin\Debug\Release Notes.txt
+C:\Solucao Impressora\barcode_src\BarcodeLib\bin\Debug\BarcodeLib.dll
+C:\Solucao Impressora\barcode_src\BarcodeLib\bin\Debug\BarcodeLib.pdb
+C:\Solucao Impressora\barcode_src\BarcodeLib\obj\Debug\BarcodeLib.csproj.CoreCompileInputs.cache
+C:\Solucao Impressora\barcode_src\BarcodeLib\obj\Debug\BarcodeLib.dll
+C:\Solucao Impressora\barcode_src\BarcodeLib\obj\Debug\BarcodeLib.pdb

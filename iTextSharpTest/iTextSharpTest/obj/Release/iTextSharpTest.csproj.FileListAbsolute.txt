@@ -1,0 +1,10 @@
+C:\Solucao Impressora\iTextSharpTest\iTextSharpTest\bin\Release\iTextSharpTest.exe.config
+C:\Solucao Impressora\iTextSharpTest\iTextSharpTest\bin\Release\iTextSharpTest.exe
+C:\Solucao Impressora\iTextSharpTest\iTextSharpTest\bin\Release\itextsharp.dll
+C:\Solucao Impressora\iTextSharpTest\iTextSharpTest\bin\Release\itextsharp.xml
+C:\Solucao Impressora\iTextSharpTest\iTextSharpTest\obj\Release\iTextSharpTest.csproj.CoreCompileInputs.cache
+C:\Solucao Impressora\iTextSharpTest\iTextSharpTest\obj\Release\iTextSharpTest.csproj.CopyComplete
+C:\Solucao Impressora\iTextSharpTest\iTextSharpTest\bin\Release\iTextSharpTest.pdb
+C:\Solucao Impressora\iTextSharpTest\iTextSharpTest\obj\Release\iTextSharpTest.exe
+C:\Solucao Impressora\iTextSharpTest\iTextSharpTest\obj\Release\iTextSharpTest.pdb
+C:\Solucao Impressora\iTextSharpTest\iTextSharpTest\obj\Release\iTextSharpTest.csprojAssemblyReference.cache
